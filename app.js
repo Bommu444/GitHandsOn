@@ -5,3 +5,11 @@ function welcomeMessage() {
 }
 
 console.log(welcomeMessage());
+
+console.log("Application updated successfully!");
+
+function calculate(a, b) {
+    return a + b;
+}
+
+console.log("Addition Result:", calculate(10, 20));
