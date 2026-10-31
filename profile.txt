@@ -5,3 +5,9 @@ Feature: User Profile
 Username: admin
 Email: admin@example.com
 Profile Status: Active
+
+Phone: 9876543210
+Location: India
+Role: DevOps Engineer
+Skills: AWS, Git, Jenkins, Docker, Kubernetes
+Account Type: Standard
