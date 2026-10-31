@@ -1,13 +1,9 @@
 LOGIN FEATURE
-
 Project Name: GitHandsOn
-
 Feature: User Login
-
-Username: admin
-
+Username: Admin
 Password: ********
-
-Login Status: Successfully created login feature.
-
+Authentication: Enabled
+Login Status: Successful
+New Feature: Remember Me Option
 Developer: Your Name
