@@ -1,0 +1,6 @@
+PAYMENT FEATURE
+Project Name: GitHandsOn
+Feature: Online Payment
+Payment Methods: UPI, Credit Card, Debit Card
+Payment Status: Enabled
+Developer: Your Name
