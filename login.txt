@@ -1,0 +1,13 @@
+LOGIN FEATURE
+
+Project Name: GitHandsOn
+
+Feature: User Login
+
+Username: admin
+
+Password: ********
+
+Login Status: Successfully created login feature.
+
+Developer: Your Name
