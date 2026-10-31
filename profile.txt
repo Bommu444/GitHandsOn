@@ -1,0 +1,7 @@
+USER PROFILE
+
+Project Name: GitHandsOn
+Feature: User Profile
+Username: admin
+Email: admin@example.com
+Profile Status: Active
